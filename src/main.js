@@ -5,7 +5,7 @@ import VueFire from 'vuefire'
 import App from './App'
 
 Vue.use(VueFire)
-Vue.config.productionTip = false
+//Vue.config.productionTip = false
 
 /* eslint-disable no-new */
 new Vue({
