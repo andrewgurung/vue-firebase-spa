@@ -1,9 +1,13 @@
-# vue-firebase-spa
+# Vue & Firebase SPA
+Real Time Single Page Web Application using Vue.js 2 & Firebase
 
-> Real Time Single Page Web Application using Vue.js 2 & Firebase
+Author Info
+-----------
+Author: Andrew Gurung <br>
+URL: http://www.andrewgurung.com/
 
-## Build Setup
-
+Installation
+------------
 ``` bash
 # install dependencies
 npm install
@@ -18,4 +22,9 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Skills
+-------
+- Vue.js 2
+- Firebase
+- Bootstrap
+- Toastr
